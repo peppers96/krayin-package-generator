@@ -80,6 +80,7 @@ class PackageGenerator
             'assets/publishable/images/Icon-Temp-Active' => '../publishable/assets/images/Icon-Temp-Active.svg',
             'webpack'                                    => '../webpack.mix.js',
             'package'                                    => '../package.json',
+            'gitignore'                                  => '../.gitignore',
         ],
     ];
 
